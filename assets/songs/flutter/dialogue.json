@@ -1,0 +1,41 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "cecilia",
+            "expression": "first",
+            "text": "Agh!"
+        },
+        {
+            "portrait": "cecilia",
+            "expression": "second",
+            "text": "I didnt expect anyone to be here today."
+        },
+		{
+            "portrait": "gf",
+            "expression": "second",
+            "text": "Chill. We're on a date here."
+        },
+		{
+            "portrait": "bf_cecilia",
+            "expression": "first",
+            "text": "yeah lol"
+        },
+        {
+            "portrait": "bf_cecilia",
+            "expression": "first",
+            "text": "wanna rap battle"
+        },
+		{
+            "portrait": "cecilia",
+            "expression": "second",
+            "text": "A rap battle?"
+        },
+        {
+            "portrait": "cecilia",
+            "expression": "third",
+            "text": "LOL! Should be easy."
+        }
+    ]
+}

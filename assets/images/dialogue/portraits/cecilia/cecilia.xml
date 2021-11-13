@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cecilia.png">
+	<SubTexture name="First Talk0000" x="0" y="130" width="450" height="320"/>
+	<SubTexture name="Second Talk0000" x="450" y="130" width="450" height="320"/>
+	<SubTexture name="Third Talk0000" x="900" y="130" width="450" height="320"/>
+	<SubTexture name="Fourth Talk0000" x="1350" y="130" width="450" height="320"/>
+	<SubTexture name="Fifth Talk0000" x="0" y="580" width="450" height="320"/>
+	<SubTexture name="Sixth Talk0000" x="450" y="580" width="450" height="320"/>
+	<SubTexture name="Seventh Talk0000" x="900" y="580" width="450" height="320"/>
+	<SubTexture name="Eight Talk0000" x="1350" y="580" width="450" height="320"/>
+	<SubTexture name="Ninth Talk0000" x="1350" y="1030" width="450" height="320"/>
+</TextureAtlas>

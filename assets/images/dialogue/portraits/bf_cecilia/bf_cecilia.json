@@ -1,0 +1,12 @@
+{
+    "name": "bf_cecilia",
+    "expressions": {
+        "first": "First Talk",
+        "second": "Second Talk"
+    },
+    "position": "right",
+	
+	"sounds": ["pixelText"],
+    "soundChance": 100,
+    "soundPath": "sounds/"
+}

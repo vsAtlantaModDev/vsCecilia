@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flutter-cecilia.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CeciliaIdle0000" x="0" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0001" x="0" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0002" x="0" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0003" x="450" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0004" x="450" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0005" x="450" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0006" x="900" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0007" x="900" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0008" x="900" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0009" x="1350" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0010" x="1350" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0011" x="1350" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0012" x="1800" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0013" x="1800" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaIdle0014" x="1800" y="0" width="450" height="600"/>
+	<SubTexture name="CeciliaSingRight0000" x="0" y="600" width="450" height="600"/>
+	<SubTexture name="CeciliaSingRight0001" x="0" y="600" width="450" height="600"/>
+	<SubTexture name="CeciliaSingRight0002" x="0" y="600" width="450" height="600"/>
+	<SubTexture name="CeciliaSingRight0003" x="450" y="600" width="450" height="600"/>
+	<SubTexture name="CeciliaSingRight0004" x="450" y="600" width="450" height="600"/>
+	<SubTexture name="CeciliaSingRight0005" x="450" y="600" width="450" height="600"/>
+	<SubTexture name="CeciliaSingLeft0000" x="900" y="600" width="450" height="600"/>
+	<SubTexture name="CeciliaSingLeft0001" x="900" y="600" width="450" height="600"/>
+	<SubTexture name="CeciliaSingLeft0002" x="900" y="600" width="450" height="600"/>
+	<SubTexture name="CeciliaSingLeft0003" x="1350" y="600" width="450" height="600"/>
+	<SubTexture name="CeciliaSingLeft0004" x="1350" y="600" width="450" height="600"/>
+	<SubTexture name="CeciliaSingLeft0005" x="1350" y="600" width="450" height="600"/>
+	<SubTexture name="CeciliaSingUp0000" x="0" y="1200" width="450" height="600"/>
+	<SubTexture name="CeciliaSingUp0001" x="0" y="1200" width="450" height="600"/>
+	<SubTexture name="CeciliaSingUp0002" x="0" y="1200" width="450" height="600"/>
+	<SubTexture name="CeciliaSingUp0003" x="450" y="1200" width="450" height="600"/>
+	<SubTexture name="CeciliaSingUp0004" x="450" y="1200" width="450" height="600"/>
+	<SubTexture name="CeciliaSingUp0005" x="450" y="1200" width="450" height="600"/>
+	<SubTexture name="CeciliaSingDown0000" x="900" y="1200" width="450" height="600"/>
+	<SubTexture name="CeciliaSingDown0001" x="900" y="1200" width="450" height="600"/>
+	<SubTexture name="CeciliaSingDown0002" x="900" y="1200" width="450" height="600"/>
+	<SubTexture name="CeciliaSingDown0003" x="1350" y="1200" width="450" height="600"/>
+	<SubTexture name="CeciliaSingDown0004" x="1350" y="1200" width="450" height="600"/>
+	<SubTexture name="CeciliaSingDown0005" x="1350" y="1200" width="450" height="600"/>
+</TextureAtlas>

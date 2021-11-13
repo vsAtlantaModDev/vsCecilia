@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_cecilia.png">
+	<SubTexture name="First Talk0000" x="0" y="140" width="450" height="310"/>
+	<SubTexture name="Second Talk0000" x="450" y="140" width="450" height="310"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+{
+    "name": "cecilia",
+    "expressions": {
+        "first": "First Talk",
+        "second": "Second Talk",
+		"third": "Third Talk",
+        "fourth": "Fourth Talk",
+		"fifth": "Fifth Talk",
+        "sixth": "Sixth Talk",
+		"seventh": "Seventh Talk",
+		"eigth": "Eight Talk",
+		"ninth": "Ninth Talk"
+    },
+    "position": "left",
+	
+	"sounds": ["pixelText"],
+    "soundChance": 100,
+    "soundPath": "sounds/"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "gf",
+    "expressions": {
+        "first": "First Talk",
+        "second": "Second Talk",
+		"third": "Third Talk",
+        "fourth": "Fourth Talk"
+    },
+    "position": "right",
+	
+	"sounds": ["pixelText"],
+    "soundChance": 100,
+    "soundPath": "sounds/"
+}

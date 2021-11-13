@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="foreverlogo.png">
+	<SubTexture name="forever bop0000" x="0" y="0" width="980" height="620" frameX="0" frameY="0" frameWidth="980" frameHeight="620" />
+	<SubTexture name="forever bop0001" x="980" y="0" width="980" height="620" frameX="0" frameY="0" frameWidth="980" frameHeight="620" />
+	<SubTexture name="forever bop0002" x="0" y="620" width="980" height="620" frameX="0" frameY="0" frameWidth="980" frameHeight="620" />
+	<SubTexture name="forever bop0003" x="980" y="620" width="980" height="620" frameX="0" frameY="0" frameWidth="980" frameHeight="620" />
+	<SubTexture name="forever bop0004" x="0" y="620" width="980" height="620" frameX="0" frameY="0" frameWidth="980" frameHeight="620" />
+	<SubTexture name="forever bop0005" x="980" y="620" width="980" height="620" frameX="0" frameY="0" frameWidth="980" frameHeight="620" />
+	<SubTexture name="forever bop0006" x="0" y="620" width="980" height="620" frameX="0" frameY="0" frameWidth="980" frameHeight="620" />
+	<SubTexture name="forever bop0007" x="980" y="620" width="980" height="620" frameX="0" frameY="0" frameWidth="980" frameHeight="620" />
+</TextureAtlas>
